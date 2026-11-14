@@ -1,0 +1,8 @@
+certs/
+users.db
+logs/
+downloads/
+server
+server_fork
+client
+__pycache__/

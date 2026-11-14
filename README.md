@@ -1,4 +1,4 @@
-# CipherChat
+# PicoChat
 
 A command-line chat app for Linux. Every connection uses TLS (OpenSSL), users log in with a password, private messages and files are end-to-end encrypted, and everything is plain C on UNIX system calls: sockets, `select()`, `fork()`, pipes, signals, file permissions.
 
